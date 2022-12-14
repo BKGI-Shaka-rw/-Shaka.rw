@@ -1,5 +1,4 @@
 # Insurance SYS
-![developer](https://BKGI)
 ---
 \
 ---
